@@ -35,6 +35,13 @@ local.properties
 !debug.keystore
 .kotlin/
 
+# Sensitive files - DO NOT COMMIT
+google-services.json
+android/app/google-services.json
+.env
+.env.local
+.env.production
+
 # node.js
 #
 node_modules/
