@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Cinzel_400Regular.ttf",
+      "sha1": "e69b593cf3181656bb3634477f0ceb0089846645"
+    },
+    {
+      "path": "src/assets/fonts/Cinzel_500Medium.ttf",
+      "sha1": "461f559b5df84aa8cabca9fbea702275c00cdce8"
+    },
+    {
+      "path": "src/assets/fonts/Cinzel_600SemiBold.ttf",
+      "sha1": "4b4d4822a26728e680a5f0ea9a8957ca2d5c84d2"
+    },
+    {
+      "path": "src/assets/fonts/Cinzel_700Bold.ttf",
+      "sha1": "b88b6bb7c15bc9c8b1a049f40b6c716a5d3c0672"
+    }
+  ]
+}
